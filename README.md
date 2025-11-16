@@ -18,14 +18,15 @@ Project: Digital Pulse Generator (KiCad E.D.A. 8.0.2):
    - **User Interaction:**
      Several buttons (SW1-SW5) and a 6-pin header (JP3) provide options for local control and external expansions.
 
-3. **Project Contents:**  
-  -Schematic: Circuit design of the pulse-generator module
+3. **Project Contents:**
    
-  -Footprint: Custom pads and mechanical definitions
+   - Schematic: Circuit design of the pulse-generator module
+   
+   - Footprint: Custom pads and mechanical definitions
   
-  -Layout: Routed two-layer board with structured design
+   - Layout: Routed two-layer board with structured design
   
-  -3D Model: Visual representation of the assembled board
+   - 3D Model: Visual representation of the assembled board
 
 5. **Software & Design Tools:**  
    The entire design was developed using software KiCad E.D.A. 8.0.2, which ensures the traceability and adaptability of the schematic.
